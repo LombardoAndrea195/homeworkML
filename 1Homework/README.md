@@ -20,3 +20,6 @@ Submission the following files:
 2) ZIP file with the code (without data set),
 3) CSV file with output on the blind test set, name of the file should be <your_matricola>.csv (e.g., 1234567.csv). If you don't have a matricola, use
 your last name.
+
+
+In this repository you can find all the informations: report with the name of 'homework_Machine_Learning.pdf' instead the code and the csv files are available on the directory 'ML1-homework1 1893440'. In the report there's the descriptions of all the steps made during development.
