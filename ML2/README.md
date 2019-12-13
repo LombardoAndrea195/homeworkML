@@ -30,4 +30,4 @@ NOTES:
 2) if you use Keras, save the model as shown in ML Exercise 10. If you use other libraries, save the model using tools available for that library.
 3) blind test set and instructions for evaluation are described in the README file in the shared folder.
 
-In this directory you an find all the instructions for developments.
+In this directory you can find all the instructions for developments.
